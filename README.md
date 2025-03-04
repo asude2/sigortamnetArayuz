@@ -1,1 +1,1 @@
-responsive tasarıma uygun değildir.
+It's not suitable for responsive design
