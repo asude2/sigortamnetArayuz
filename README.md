@@ -1,0 +1,1 @@
+responsive tasarıma uygun değildir.
